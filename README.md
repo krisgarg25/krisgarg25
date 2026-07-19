@@ -130,8 +130,8 @@ I am a software engineer focused on building robust backend systems and integrat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisgarg25&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues,prs" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisgarg25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisgarg25&show_icons=true&theme=tokyonight&hide_border=true&hide=stars,issues,prs" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisgarg25&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
