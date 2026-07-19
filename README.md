@@ -13,9 +13,9 @@
 <br>
 
 <!-- CONTACT BADGES -->
-[![Email](https://img.shields.io/badge/Email-%20-0078D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0078D4)](mailto:krisgarg.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/krisgarg25)
-[![GitHub](https://img.shields.io/badge/GitHub-%20-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/krisgarg25)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisgarg.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisgarg25)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisgarg25)
 
 <br><br>
 </div>
