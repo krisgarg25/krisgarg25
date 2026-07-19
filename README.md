@@ -13,9 +13,9 @@
 <br>
 
 <!-- CONTACT BADGES -->
-<a href="mailto:krisgarg.work@gmail.com"><img src="https://img.shields.io/badge/Email-krisgarg.work%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/krisgarg25"><img src="https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/krisgarg25"><img src="https://img.shields.io/badge/GitHub-krisgarg25-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![Email](https://img.shields.io/badge/Email-krisgarg.work%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krisgarg.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krisgarg25)
+[![GitHub](https://img.shields.io/badge/GitHub-krisgarg25-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krisgarg25)
 
 <br><br>
 </div>
@@ -135,7 +135,11 @@ I am a software engineer focused on building robust backend systems and integrat
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/3B82F6/krisgarg25" alt="krisgarg25's GitHub Chart" width="100%" />
+<img src="https://ghchart.rshah.org/3B82F6/krisgarg25" alt="krisgarg25's Yearly GitHub Chart" width="100%" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krisgarg25&bg_color=1a1b27&color=7aa2f7&line=9ece6a&point=f7768e&area=true&hide_border=true&custom_title=Last%2031%20Days%20Contribution%20Trend" alt="31-Day Contribution Graph" />
 
 <br><br>
 
